@@ -1,7 +1,7 @@
 
 # 📊 Real-Time Budget & Performance Tracking
 
-**Authors:** Arghyadip Pandey & Aritra Chakraborty
+**Authors:** Arghyadip Pandey 
 
 ## 📁 Project Overview
 
